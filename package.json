@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "twi-light.github.io",
+  "version": "0.0.1",
+  "description": "My Personal Website",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twi-light/twi-light.github.io.git"
+  },
+  "author": "Twi light",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twi-light/twi-light.github.io/issues"
+  },
+  "homepage": "https://github.com/twi-light/twi-light.github.io#readme"
+}
